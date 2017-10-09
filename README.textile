@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwysihtml5.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwysihtml5?ref=badge_shield)
+
 h1. This project isn't maintained anymore
 
 Please check out this "fork":http://wysihtml.com.
@@ -62,3 +64,7 @@ h2. Contributors
 * "@tiff":https://github.com/tiff
 * "@ingochao":https://github.com/ingochao
 * "@uwe":https://github.com/uwe
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwysihtml5.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwysihtml5?ref=badge_large)
